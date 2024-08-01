@@ -1,0 +1,142 @@
+[
+    {
+        "name": "iPhone 12",
+        "price": 799,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 999,
+        "featured": false,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "Inspiron 15",
+        "price": 549,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "Redmi Note 10",
+        "price": 199,
+        "featured": false,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 1299,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Tab S7",
+        "price": 649,
+        "featured": false,
+        "rating": 4.7,
+        "company": "Samsung"
+    },
+    {
+        "name": "XPS 13",
+        "price": 999,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Dell"
+    },
+    {
+        "name": "Mi Band 6",
+        "price": 49,
+        "featured": false,
+        "rating": 4.5,
+        "company": "MI"
+    },
+    {
+        "name": "iPad Air",
+        "price": 599,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Watch 4",
+        "price": 249,
+        "featured": false,
+        "rating": 4.7,
+        "company": "Samsung"
+    },
+    {
+        "name": "Alienware m15",
+        "price": 1499,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Dell"
+    },
+    {
+        "name": "Mi TV 4A",
+        "price": 299,
+        "featured": false,
+        "rating": 4.6,
+        "company": "MI"
+    },
+    {
+        "name": "AirPods Pro",
+        "price": 249,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Buds Pro",
+        "price": 199,
+        "featured": false,
+        "rating": 4.6,
+        "company": "Samsung"
+    },
+    {
+        "name": "Latitude 5420",
+        "price": 899,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "Mi 10T Pro",
+        "price": 499,
+        "featured": false,
+        "rating": 4.5,
+        "company": "MI"
+    },
+    {
+        "name": "Apple Watch Series 6",
+        "price": 399,
+        "featured": true,
+        "rating": 4.9,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Z Fold 3",
+        "price": 1799,
+        "featured": false,
+        "rating": 4.8,
+        "company": "Samsung"
+    },
+    {
+        "name": "G5 15",
+        "price": 749,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Dell"
+    },
+    {
+        "name": "Mi Electric Scooter",
+        "price": 499,
+        "featured": false,
+        "rating": 4.6,
+        "company": "MI"
+    }
+]
