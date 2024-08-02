@@ -1,7 +1,7 @@
 const model = require('../models/product')
 
 const getAllProducts = async (req,res) => {
-    const reqData = await model.find();
+    const reqData = await model.find().sort('name');
     res.status(200).json(reqData);
 };
 
