@@ -1,11 +1,13 @@
+const model = require('../models/product')
+
 const getAllProducts = async (req,res) => {
-    res.status(200).json({msg:"get all products working"});
+    const reqData = await model.find();
+    res.status(200).json(reqData);
 };
 
 const getAllProductsTesting = async (req,res) =>{
-    res.status(200).json({
-        msg:"testing is also woroking"
-    })
+    const data = await model.find({featured:true});
+    res.status(200).json({data})
 }
 
 module.exports = { getAllProducts, getAllProductsTesting };
