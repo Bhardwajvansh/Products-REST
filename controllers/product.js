@@ -6,7 +6,7 @@ const getAllProducts = async (req,res) => {
 };
 
 const getAllProductsTesting = async (req,res) =>{
-    const data = await model.find({featured:true});
+    const data = await model.find(req.query);
     res.status(200).json({data})
 }
 
